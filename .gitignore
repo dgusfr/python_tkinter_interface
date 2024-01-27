@@ -1,0 +1,7 @@
+# Pastas na raiz do projeto
+/build
+/exeFiles
+
+# Arquivos na raiz do projeto
+formulario.spec
+login.spec
